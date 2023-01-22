@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "generating portfolio",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mekonnenke/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mekonnenke/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Mekonnenke/portfolio-generator#readme"
+}
