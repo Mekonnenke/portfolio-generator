@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^8.0.0"
   },
   "name": "portfolio-generator",
   "version": "1.0.0",
   "description": "generating portfolio",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
